@@ -2,7 +2,7 @@ uas_layanan web
 
 langkah satu 
 
-1. iposrt data base dengan migration atau  file import
+1. import data base dengan migration atau  file import
 2. import file postman
 3. jalankan code igniter
 
